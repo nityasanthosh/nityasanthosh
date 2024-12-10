@@ -26,9 +26,22 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/nityasanthosh">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
+</div>
+
+<hr/>
+
+<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,python,c++,java,mysql,html" /><br>
+    <img src="https://skillicons.dev/icons?i=git,pandas,tensorflow,scikit learn,figma,css,jupyter,anaconda,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=canva,keras,pytorch" /><br>
+    
+  </a>
 </div>
 
 
