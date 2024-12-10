@@ -49,7 +49,7 @@
 ### My Contributions
 <div align="center">
   <br>
-  <img alt="snake" src="https://github.com/nityasanthosh/nityasanthosh/blob/main/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake" src="https://github.com/nityasanthosh/nityasanthosh/blob/output/github-contribution-grid-snake-dark.svg" />
 
   <br/><br/><br/>
 </div>
