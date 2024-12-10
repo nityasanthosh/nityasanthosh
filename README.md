@@ -18,7 +18,7 @@
 
 ### 🤝 Connect with me:
 
-<div align="center">
+<div align="left">
   <a href="mailto:nityasanthosh2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -33,9 +33,11 @@
 
 <hr/>
 
+<div align="center">
+
 ### 🛠️ Languages-Frameworks-Tools 🛠️
 <br/>
-<div align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,python,cpp,java,mysql,html" /><br>
     <img src="https://skillicons.dev/icons?i=git,tensorflow,sklearn,figma,css,anaconda,vscode,matlab" /><br>
