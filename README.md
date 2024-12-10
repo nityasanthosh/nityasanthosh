@@ -33,7 +33,7 @@
 
 <hr/>
 
-<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
+### 🛠️ Languages-Frameworks-Tools 🛠️
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
@@ -46,8 +46,8 @@
 
 <hr/>
 
+### My Contributions
 <div align="center">
-  <h2>My Contributions</h2>
   <br>
   <img alt="snake" src="https://github.com/nityasanthosh/nityasanthosh/blob/main/github-contribution-grid-snake-dark.svg" />
 
