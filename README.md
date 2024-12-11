@@ -19,7 +19,7 @@
 ### 🤝 Connect with me:
 
 <div align="left">
-  <a href="mailto:nityasanthosh2004@gmail.com">
+  <a href="mailto:https://mail.google.com/mail/u/nityasanthosh2004@gmail.com/#compose">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/nitya-santhosh-9a4554251/">
