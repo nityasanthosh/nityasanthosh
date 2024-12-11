@@ -49,6 +49,7 @@
 ## GitHub Stats
 
 <p align="center">
+  
   <img width=390 src="https://streak-stats.demolab.com/?user=nityasanthosh&count_private=true&theme=react&border_radius=10" alt="streak stats" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=nityasanthosh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
@@ -75,6 +76,15 @@
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nityasanthosh&theme=radical" height=auto width=80%"  />  
 </p>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Feel+free+to+reach+out+on+LinkedIn!;+I'm+always+open+to+collaborating+:)">
+</h3>
+
+<br/>
 
 
 
